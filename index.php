@@ -6,9 +6,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <?php echo Theme::metaTagTitle(); ?>
 <?php echo Theme::metaTagDescription(); ?>
-<meta name="twitter:title" content="<?php echo $page->title(); ?>"/>
-<meta name="twitter:description" content="<?php echo $page->description(); ?>"/>
-<?php echo Theme::metaTagDescription(); ?>
 <?php echo Theme::favicon('img/favicon.png'); ?>
 <script src="https://cdn.tailwindcss.com"></script>
 <?php echo Theme::css('css/blug.css'); ?>
