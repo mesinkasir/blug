@@ -12,6 +12,8 @@ Demo : [https://axcora.my.id/bludit/blug/](https://axcora.my.id/bludit/blug/)
 
 Documentation : [https://axcora.my.id/bludit/blug/install](https://axcora.my.id/bludit/blug/install)
 
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
+
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
 --------
@@ -32,6 +34,8 @@ Test Peform
 Demo : [https://axcora.my.id/bludit/blug/](https://axcora.my.id/bludit/blug/)
 
 Documentation : [https://axcora.my.id/bludit/blug/install](https://axcora.my.id/bludit/blug/install)
+
+Home page : [https://bludit.axcora.com/](https://bludit.axcora.com/)
 
 If you need built simple fast website with flatfile cms [hire me](https://www.fiverr.com/creativitas/design-your-website-with-phyton-django)
 
